@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chukwuemeka Kingsley
 =====================================================================================================================================
 
-Teacher, Full Stack Developer, Co-Founder
+Full Stack Developer, Co-Founder
 -----------------------------------------
 
 xcity is a Full-Stack Developer with over 5 years experience in web and mobile app development, he has mastered the like of REACTJS and explored the world of Cascading Style Sheets with Tailwind, he is very much open to learn and imporve on his skills.
