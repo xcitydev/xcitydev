@@ -8,7 +8,7 @@ xcity is a Full-Stack Developer with over 5 years experience in web and mobile a
 
 * 🌍  I'm based in NJ
 * 🖥️  See my portfolio at [Here](http://xcitydev.dev) 
-* ✉️  You can contact me at [xcity@gmail.com](mailto:xcity111@gmail.com)
+* ✉️  You can contact me at [xcity111@gmail.com](mailto:xcity111@gmail.com)
 * 🧠  I'm a master of REACTJS
 * 🤝  I'm open to collaborating on creative projects
 * ⚡  I love coding and web3
